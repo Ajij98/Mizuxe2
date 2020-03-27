@@ -1,0 +1,59 @@
+body{
+  background: #fff;
+  color: #333;
+}
+.navbar{
+  opacity: 0.8;
+}
+#home-section{
+  background: url("../img/home.jpg") no-repeat center top;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 600px;
+}
+#home-section h3{
+  margin-top: 100px;
+}
+#home-section .primary-overlay{
+  background: rgba(37, 37, 37, 0.7);
+  min-height: 600px;
+  padding: 30px 0;
+}
+#box-section .border{
+  border-radius: 0;
+}
+#about-section{
+  background: #d7dfde82 !important;
+}
+#about-section .design{
+  text-decoration: none;
+}
+#author-section img {
+    margin-top: -70px;
+}
+#author-section .design{
+  border-radius: 0;
+}
+#author-section .fa{
+  background: #bdd1df;
+  color: black;
+  padding: 9px;
+  width: 35px;
+  height: 35px;
+  font-size: 18px;
+  border-radius: 50%;
+}
+#contact-section{
+  background: #d7dfde82 !important;
+}
+#contact-section img{
+  margin-top: 150px;
+  margin-left: 20px;
+}
+.uk-totop {
+  padding: 10px;
+  background: white;
+  border-radius: 4px;
+  color: black;
+  font-size: 30px;
+}
